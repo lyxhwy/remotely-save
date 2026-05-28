@@ -242,3 +242,6 @@
 .pro-revoke-auth-button-hide {
   display: none;
 }
+
+/* M365 custom build: official PRO account block hidden; Smart Conflict Plus is self-developed. */
+.rs-m365-pro-account-hidden { display: none !important; }
